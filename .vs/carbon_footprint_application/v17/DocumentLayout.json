@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\account\\openauthproviders.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
-      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:account\\openauthproviders.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\account\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:account\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\account\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:account\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\account\\openauthproviders.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:account\\openauthproviders.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Default.aspx",
               "RelativeDocumentMoniker": "Default.aspx",
@@ -56,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Site.Master",
               "RelativeDocumentMoniker": "Site.Master",
@@ -70,13 +82,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "About.aspx",
               "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\About.aspx",
               "RelativeDocumentMoniker": "About.aspx",
               "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\About.aspx",
               "RelativeToolTip": "About.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-02-25T13:57:04.872Z",
               "IsPinned": true,
@@ -85,19 +96,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Account\\Register.aspx",
+              "RelativeDocumentMoniker": "Account\\Register.aspx",
+              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Account\\Register.aspx",
+              "RelativeToolTip": "Account\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-28T22:28:51.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Account\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Account\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Account\\Register.aspx.cs",
+              "RelativeToolTip": "Account\\Register.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:28:28.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Content\\bootstrap.css",
+              "RelativeToolTip": "Content\\bootstrap.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T21:30:16.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "OpenAuthProviders.ascx",
               "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Account\\OpenAuthProviders.ascx",
               "RelativeDocumentMoniker": "Account\\OpenAuthProviders.ascx",
               "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Account\\OpenAuthProviders.ascx",
               "RelativeToolTip": "Account\\OpenAuthProviders.ascx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
               "WhenOpened": "2024-02-25T14:23:27.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Account\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Account\\Login.aspx.cs",
@@ -110,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Account\\Login.aspx",
               "RelativeDocumentMoniker": "Account\\Login.aspx",
@@ -123,13 +170,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Contact.aspx",
               "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Contact.aspx",
               "RelativeDocumentMoniker": "Contact.aspx",
               "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Contact.aspx",
               "RelativeToolTip": "Contact.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-02-25T14:10:52.526Z",
               "EditorCaption": ""
