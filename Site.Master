@@ -63,6 +63,7 @@
                                     <asp:LoginStatus runat="server" CssClass="nav-link" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
                                 </li>
                             </ul>
+
                         </LoggedInTemplate>
                     </asp:LoginView>
                 </div>

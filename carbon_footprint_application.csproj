@@ -195,6 +195,15 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="DataPage\carboon.png" />
+    <Content Include="DataPage\ElectricConsumption.aspx" />
+    <Content Include="DataPage\ElectricConsumption.css" />
+    <Content Include="DataPage\MyCodeBehindPage.aspx" />
+    <Content Include="DataPage\report.jpg" />
+    <Content Include="DataPage\Reports.aspx" />
+    <Content Include="DataPage\reportStyle.css" />
+    <Content Include="DataPage\style.css" />
+    <Content Include="DataPage\TransportEmission.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
@@ -378,12 +387,41 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="calculator.cs" />
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DataPage\ElectricConsumption.aspx.cs">
+      <DependentUpon>ElectricConsumption.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DataPage\ElectricConsumption.aspx.designer.cs">
+      <DependentUpon>ElectricConsumption.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DataPage\MyCodeBehindPage.aspx.cs">
+      <DependentUpon>MyCodeBehindPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DataPage\MyCodeBehindPage.aspx.designer.cs">
+      <DependentUpon>MyCodeBehindPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DataPage\Reports.aspx.cs">
+      <DependentUpon>Reports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DataPage\Reports.aspx.designer.cs">
+      <DependentUpon>Reports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DataPage\TransportEmission.aspx.cs">
+      <DependentUpon>TransportEmission.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DataPage\TransportEmission.aspx.designer.cs">
+      <DependentUpon>TransportEmission.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
