@@ -202,6 +202,9 @@
     <Content Include="DataPage\report.jpg" />
     <Content Include="DataPage\Reports.aspx" />
     <Content Include="DataPage\reportStyle.css" />
+    <Content Include="DataPage\Splash.aspx" />
+    <Content Include="DataPage\splash.css" />
+    <Content Include="DataPage\splash.js" />
     <Content Include="DataPage\style.css" />
     <Content Include="DataPage\TransportEmission.aspx" />
     <Content Include="Default.aspx" />
@@ -415,6 +418,13 @@
     </Compile>
     <Compile Include="DataPage\Reports.aspx.designer.cs">
       <DependentUpon>Reports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DataPage\Splash.aspx.cs">
+      <DependentUpon>Splash.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DataPage\Splash.aspx.designer.cs">
+      <DependentUpon>Splash.aspx</DependentUpon>
     </Compile>
     <Compile Include="DataPage\TransportEmission.aspx.cs">
       <DependentUpon>TransportEmission.aspx</DependentUpon>

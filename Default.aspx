@@ -10,7 +10,7 @@
             <p class="lead">
 Carbon Footprint Tracker application is a tool that help you estimate and track your personal impact on the environment, specifically focusing on greenhouse gas emissions. These emissions are often measured in carbon dioxide equivalents (CO2e), which represent the global warming potential of different gases.</p>
             <p><a href="/Account/login" class="btn btn-primary bg-success">Log In </a></p>
-            <p><a href="/DataPage/TransportEmission" class="btn btn-primary bg-success">Continue to the Calculator </a></p>
+            <p><a href="/DataPage/Splash" class="btn btn-primary bg-success">Continue to the Calculator </a></p>
 
         </section>
 
