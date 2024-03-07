@@ -42,11 +42,18 @@
         <div class="form-container">
                 <h1 style="color: rgb(81, 74, 73);">Electricity Consumption</h1>
                 <form class="form-inputs" action="" method="post" runat="server">
+                    <label for="energySource"> Energy Source:</label>
+                    <select id="energySource" aria-placeholder="Select Carbon Footprint Type" runat="server">
+                        <option value="solar">Solar</option>
+                        <option value="naturalGas">Natural Gas</option>
+                        <option value="wind">Wind</option>
+                        <option value="coal">Coal</option> 
+                        <option value="hydroPower">HydroPower</option>
+                    </select>
+                    <br />
                     <label for="vehicle">Energy Consumption: </label>
-                    
-                    <input type="text" name="distance" id="distance" placeholder="Distance Traveled" required>
+                    <input type="text" name="distance" id="distance" runat="server" placeholder="Distance Traveled" required>
                     <br>
-                    
                     <input type="submit" value="Submit" class="submit-button" onclick="resetForm()">
                     <script>
                         function resetForm() {

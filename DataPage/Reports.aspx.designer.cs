@@ -13,5 +13,23 @@ namespace carbon_footprint_application.DataPage
 
     public partial class Reports
     {
+
+        /// <summary>
+        /// TransportEmissionnn control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView TransportEmissionnn;
+
+        /// <summary>
+        /// ElectricConsumptionnnnn control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView ElectricConsumptionnnnn;
     }
 }

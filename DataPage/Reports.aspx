@@ -43,29 +43,22 @@
                 <img src="report.jpg" alt="My Image">
         </div>
         <div class="report-container">
-            <div class="form-container">
-                    <h1 style="color: rgb(81, 74, 73);">Transport Emission report:</h1>
-                    <form class="form-inputs" action="#" method="post">
-                        <h2>Vehicle Type: </h2>
+            <h1 class="titleOfTheTable">Transport Emission Report</h1>
+            <form runat="server">
+                <asp:GridView ID="TransportEmissionnn" runat="server">
+                    <Columns>
+            
+                    </Columns>
+                </asp:GridView>
+                 <h1 class="titleOfTheTable">Electricity Consumption Report</h1>
+                <asp:GridView ID="ElectricConsumptionnnnn" runat="server">
+                    <Columns>
                         
-                        <h2>Distance:</h2>
-                        <h2>Fuel Type: </h2>
-                        <h2>Fuel Efficiency: </h2>
-                        <h2>Entry Date: </h2>
-                    </form>
-                <asp:Label ID="lblData" runat="server" Text=""></asp:Label>
-                    
-            </div>
-            <div style="margin-top: -45px;" class="form-container">
-                <h1 style="color: rgb(81, 74, 73);">Electricity Consumption Report</h1>
-                <form class="form-inputs" action="#" method="post">
-                    <h2>Energy Source:</h2>
-                    <h2>Electricity Usage: </h2>
-                    <h2>Entry Date:</h2>
-                    <h2></h2>
-                </form>
-            </div>
+                    </Columns>
+                </asp:GridView>
+            </form>
     </div>
+
     <script>
         function myFunction(x) {
             x.classList.toggle("change");

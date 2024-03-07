@@ -39,14 +39,14 @@
                 <img src="carboon.png" alt="My Image">
            </div>
            <div class="form-container">
-                <h1>Enter The Data</h1>
+                <h1>Transport Emission</h1>
                 <form class="form-inputs" method="post" runat="server">
                     <label for="vehicle">Vehicle Type:</label>
                     <select id="vehicle" runat="server" aria-placeholder="Select Carbon Footprint Type">
                         <option value="car">Car</option>
                         <option value="truck">Truk</option>
                         <option value="bus">Bus</option>
-                
+                        
                     </select>
                     <input type="text" name="distance" id="distance" placeholder="Distance Traveled" runat="server" required>
                     <br>
@@ -58,7 +58,7 @@
                         <option value="electric">Electric</option>
                     </select>
             
-                    <input type="text" name="fuelEfficiency" id="fuelEfficiency" placeholder="Enter the number of gallons consumed" runat="server" required>
+                    <input type="text" name="fuelEfficiency" id="fuelEfficiency" placeholder="Enter the number of gallons consumed or usage of Electricity" runat="server" required>
                     <input type="submit" value="Submit" class="submit-button" runat="server" onclick="resetForm()">
                     <div>
                 

@@ -3,52 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\datapage\\reports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:datapage\\reports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\datapage\\electricconsumption.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:datapage\\electricconsumption.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\datapage\\transportemission.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\datapage\\transportemission.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:datapage\\transportemission.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\datapage\\splash.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:datapage\\splash.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\datapage\\splash.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:datapage\\splash.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|c:\\users\\tefer\\downloads\\carbon_footprint_application\\datapage\\splash.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:datapage\\splash.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\datapage\\transportemission.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:datapage\\transportemission.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\datapage\\reports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:datapage\\reports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\datapage\\electricconsumption.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:datapage\\electricconsumption.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\datapage\\reports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:datapage\\reports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\datapage\\splash.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AB4F7B01-D230-434C-90B3-8C2C86292947}|carbon_footprint_application.csproj|solutionrelative:datapage\\splash.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Files\\TransportEmission.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Files\\TransportEmission.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Default.aspx",
               "RelativeDocumentMoniker": "Default.aspx",
@@ -71,12 +63,11 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-02-25T13:43:00.326Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Site.Master",
               "RelativeDocumentMoniker": "Site.Master",
@@ -85,59 +76,44 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-02-25T13:45:55.466Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "About.aspx",
-              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\About.aspx",
-              "RelativeDocumentMoniker": "About.aspx",
-              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\About.aspx",
-              "RelativeToolTip": "About.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-02-25T13:57:04.872Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Splash.aspx",
-              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\Splash.aspx",
-              "RelativeDocumentMoniker": "DataPage\\Splash.aspx",
-              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\Splash.aspx",
-              "RelativeToolTip": "DataPage\\Splash.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-04T06:07:59.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "calculator.cs",
               "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\calculator.cs",
               "RelativeDocumentMoniker": "calculator.cs",
               "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\calculator.cs",
               "RelativeToolTip": "calculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T15:20:29.58Z",
+              "WhenOpened": "2024-03-07T06:07:39.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransportEmission.aspx",
+              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\TransportEmission.aspx",
+              "RelativeDocumentMoniker": "DataPage\\TransportEmission.aspx",
+              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\TransportEmission.aspx",
+              "RelativeToolTip": "DataPage\\TransportEmission.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-07T06:47:17.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "splash.js",
-              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\splash.js",
-              "RelativeDocumentMoniker": "DataPage\\splash.js",
-              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\splash.js",
-              "RelativeToolTip": "DataPage\\splash.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-04T06:15:08.231Z",
+              "DocumentIndex": 0,
+              "Title": "ElectricConsumption.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\ElectricConsumption.aspx.cs",
+              "RelativeDocumentMoniker": "DataPage\\ElectricConsumption.aspx.cs",
+              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\ElectricConsumption.aspx.cs",
+              "RelativeToolTip": "DataPage\\ElectricConsumption.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:23:06.588Z",
               "EditorCaption": ""
             },
             {
@@ -148,64 +124,14 @@
               "RelativeDocumentMoniker": "DataPage\\TransportEmission.aspx.cs",
               "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\TransportEmission.aspx.cs",
               "RelativeToolTip": "DataPage\\TransportEmission.aspx.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvyIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T04:40:37.791Z",
+              "WhenOpened": "2024-03-06T21:06:40.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Reports.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\Reports.aspx.cs",
-              "RelativeDocumentMoniker": "DataPage\\Reports.aspx.cs",
-              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\Reports.aspx.cs",
-              "RelativeToolTip": "DataPage\\Reports.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T16:16:37.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Reports.aspx",
-              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\Reports.aspx",
-              "RelativeDocumentMoniker": "DataPage\\Reports.aspx",
-              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\Reports.aspx",
-              "RelativeToolTip": "DataPage\\Reports.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-02T14:17:26.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TransportEmission.aspx",
-              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\TransportEmission.aspx",
-              "RelativeDocumentMoniker": "DataPage\\TransportEmission.aspx",
-              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\TransportEmission.aspx",
-              "RelativeToolTip": "DataPage\\TransportEmission.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-02T14:17:44.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "splash.css",
-              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\splash.css",
-              "RelativeDocumentMoniker": "DataPage\\splash.css",
-              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\splash.css",
-              "RelativeToolTip": "DataPage\\splash.css",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAYwHEAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-04T06:16:00.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "ElectricConsumption.aspx",
               "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\ElectricConsumption.aspx",
               "RelativeDocumentMoniker": "DataPage\\ElectricConsumption.aspx",
@@ -213,7 +139,44 @@
               "RelativeToolTip": "DataPage\\ElectricConsumption.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-02T14:16:08.016Z"
+              "WhenOpened": "2024-03-07T06:22:25.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reports.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\Reports.aspx.cs",
+              "RelativeDocumentMoniker": "DataPage\\Reports.aspx.cs",
+              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\Reports.aspx.cs",
+              "RelativeToolTip": "DataPage\\Reports.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:16:37.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransportEmission.txt",
+              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Files\\TransportEmission.txt",
+              "RelativeDocumentMoniker": "Files\\TransportEmission.txt",
+              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\Files\\TransportEmission.txt",
+              "RelativeToolTip": "Files\\TransportEmission.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAC+BgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-06T22:27:35.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "splash.css",
+              "DocumentMoniker": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\splash.css",
+              "RelativeDocumentMoniker": "DataPage\\splash.css",
+              "ToolTip": "C:\\Users\\tefer\\Downloads\\carbon_footprint_application\\DataPage\\splash.css",
+              "RelativeToolTip": "DataPage\\splash.css",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAYwHEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-04T06:16:00.258Z"
             }
           ]
         }

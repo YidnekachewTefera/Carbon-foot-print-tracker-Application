@@ -1,0 +1,6 @@
+We have received your data of: truck Emission which had a distance traveled: 1234567890KM with fuel type: diesel and fuel consumption of: 234567Literes{
+  "VehicleType": "truck",
+  "DistanceTravele": "1234567890",
+  "FuelType": "diesel",
+  "FuelConsumption": "4543"
+}

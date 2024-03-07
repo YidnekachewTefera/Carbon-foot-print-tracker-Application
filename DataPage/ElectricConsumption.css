@@ -45,6 +45,15 @@ img {
     border-color: rgb(55, 189, 38);
     box-shadow: 3px 3px 0px 0px rgb(216, 255, 210);
 }
+select {
+    width: 45%;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 20px;
+    border: 1px solid rgb(81, 74, 73);
+    border-radius: 10px;
+    color: rgb(81, 74, 73);
+}
 
 .form-container {
     width: 40%;
@@ -120,13 +129,7 @@ form > label {
     margin-left: 20px;
 }
 
-select {
-    border-color: rgb(55, 189, 38);
-    width: 31%;
-    height: 34px;
-    border-radius: 10px;
-    color: rgb(55, 189, 38);
-}
+
 
 .fuelLabel {
     margin-right: 20px;

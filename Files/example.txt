@@ -1,0 +1,1 @@
+We have received your data of: truck Emission which had a distance traveled: 12KM with fuel type: diesel and fuel consumption of: 3Literes
